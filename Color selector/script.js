@@ -8,4 +8,4 @@ function CambiarBlanco(){
 
 function CambiarNegro(){
     document.body.style.backgroundColor = '#000';
-}.
+}..
